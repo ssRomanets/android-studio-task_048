@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TextSize for TextView -->
+    <dimen name="textSizeSmall">8sp</dimen>
+    <dimen name="textSizeNormal">16sp</dimen>
+    <dimen name="textSizeLarge">24sp</dimen>
+
+    <!--Margin-->
+    <dimen name="MarginSmall">8dp</dimen>
+    <dimen name="MarginNormal">16dp</dimen>
+    <dimen name="MarginLarge">24dp</dimen>
+
+    <!--MarginTop-->
+    <dimen name="MarginTopSmall">8dp</dimen>
+    <dimen name="MarginTopNormal">16dp</dimen>
+    <dimen name="MarginTopLarge">24dp</dimen>
+
+    <!--MarginLeft-->
+    <dimen name="MarginLeftSmall">8dp</dimen>
+    <dimen name="MarginLeftNormal">16dp</dimen>
+    <dimen name="MarginLeftLarge">24dp</dimen>
+
+    <!--MarginRight-->
+    <dimen name="MarginRightSmall">8dp</dimen>
+    <dimen name="MarginRightNormal">16dp</dimen>
+    <dimen name="MarginRightLarge">24dp</dimen>
+
+    <!--MarginBottom-->
+    <dimen name="MarginBottomSmall">8dp</dimen>
+    <dimen name="MarginBottomNormal">16dp</dimen>
+    <dimen name="MarginBottomLarge">24dp</dimen>
+
+    <!--Padding-->
+    <dimen name="PaddingSmall">8dp</dimen>
+    <dimen name="PaddingNormal">16dp</dimen>
+    <dimen name="PaddingLarge">24dp</dimen>
+
+    <!--PaddingTop-->
+    <dimen name="PaddingTopSmall">8dp</dimen>
+    <dimen name="PaddingTopNormal">16dp</dimen>
+    <dimen name="PaddingTopLarge">24dp</dimen>
+
+    <!--MarginLeft-->
+    <dimen name="PaddingLeftSmall">8dp</dimen>
+    <dimen name="PaddingLeftNormal">16dp</dimen>
+    <dimen name="PaddingLeftLarge">24dp</dimen>
+
+    <!--MarginRight-->
+    <dimen name="PaddingRightSmall">8dp</dimen>
+    <dimen name="PaddingRightNormal">16dp</dimen>
+    <dimen name="PaddingRightLarge">24dp</dimen>
+
+    <!--MarginBottom-->
+    <dimen name="PaddingBottomSmall">8dp</dimen>
+    <dimen name="PaddingBottomNormal">16dp</dimen>
+    <dimen name="PaddingBottomLarge">24dp</dimen>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewMainStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopLarge</item>
+        <item name="android:layout_marginBottom">@dimen/MarginBottomLarge</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+    </style>
+
+    <style name="TextViewSubMainStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopNormal</item>
+        <item name="android:layout_marginBottom">@dimen/MarginBottomNormal</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeNormal</item>
+    </style>
+
+    <style name="LLHLargeStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopLarge</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="TextViewLargeStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/MarginLeftLarge</item>
+        <item name="android:layout_marginRight">@dimen/MarginRightLarge</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+    </style>
+
+    <style name="LLHNormalStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopNormal</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="TextViewNormalStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/MarginLeftNormal</item>
+        <item name="android:layout_marginRight">@dimen/MarginRightNormal</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeNormal</item>
+    </style>
+
+    <style name="LLHSmallStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopSmall</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="TextViewSmallStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/MarginLeftSmall</item>
+        <item name="android:layout_marginRight">@dimen/MarginRightSmall</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeSmall</item>
+    </style>
+
+    <style name="EditTextLargeStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopLarge</item>
+        <item name="android:paddingTop">@dimen/PaddingLarge</item>
+        <item name="android:paddingLeft">@dimen/PaddingLarge</item>
+        <item name="android:paddingRight">@dimen/PaddingLarge</item>
+        <item name="android:paddingBottom">@dimen/PaddingLarge</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeLarge</item>
+    </style>
+
+    <style name="EditTextNormalStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopNormal</item>
+        <item name="android:paddingTop">@dimen/PaddingNormal</item>
+        <item name="android:paddingLeft">@dimen/PaddingNormal</item>
+        <item name="android:paddingRight">@dimen/PaddingNormal</item>
+        <item name="android:paddingBottom">@dimen/PaddingNormal</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeNormal</item>
+    </style>
+
+    <style name="EditTextSmallStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopSmall</item>
+        <item name="android:paddingTop">@dimen/PaddingSmall</item>
+        <item name="android:paddingLeft">@dimen/PaddingSmall</item>
+        <item name="android:paddingRight">@dimen/PaddingSmall</item>
+        <item name="android:paddingBottom">@dimen/PaddingSmall</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeSmall</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopLarge</item>
+        <item name="android:paddingTop">@dimen/PaddingLarge</item>
+        <item name="android:paddingLeft">@dimen/PaddingNormal</item>
+        <item name="android:paddingRight">@dimen/PaddingNormal</item>
+        <item name="android:paddingBottom">@dimen/PaddingSmall</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/textViewColor</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+        <item name="android:textSize">@dimen/textSizeNormal</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/MarginTopLarge</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:backgroundTint">@color/buttonColor</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>

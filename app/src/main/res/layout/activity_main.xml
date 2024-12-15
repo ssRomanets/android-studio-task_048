@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/TextViewMainStyle"
+        android:text="Заголовок" />
+
+    <TextView
+        style="@style/TextViewSubMainStyle"
+        android:text="Подзаголовок" />
+
+    <LinearLayout
+        style="@style/LLHLargeStyle">
+
+        <TextView
+            style="@style/TextViewLargeStyle"
+            android:text="TextView Large 1" />
+        <TextView
+            style="@style/TextViewLargeStyle"
+            android:text="TextView Large 2" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/LLHNormalStyle">
+
+        <TextView
+            style="@style/TextViewNormalStyle"
+            android:text="TextView Normal 1" />
+        <TextView
+            style="@style/TextViewNormalStyle"
+            android:text="TextView Normal 2" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/LLHSmallStyle">
+
+        <TextView
+            style="@style/TextViewSmallStyle"
+            android:text="TextView Small 1" />
+        <TextView
+            style="@style/TextViewSmallStyle"
+            android:text="TextView Small 2" />
+    </LinearLayout>
+
+    <EditText
+        style="@style/EditTextLargeStyle"
+        android:text="EDIT LARGE"
+        />
+
+    <EditText
+        style="@style/EditTextNormalStyle"
+        android:text="EDIT NORMAL"
+        />
+
+    <EditText
+        style="@style/EditTextSmallStyle"
+        android:text="EDIT SMALL"
+        />
+
+    <EditText
+        style="@style/EditTextStyle"
+        android:text="EDIT TEXT"
+        />
+    <Button
+        style="@style/ButtonStyle"
+        android:text="Input!"
+    />
+
+
+</LinearLayout>
